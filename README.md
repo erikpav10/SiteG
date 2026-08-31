@@ -857,7 +857,7 @@
         <ul style="list-style: none; color: var(--texto-cinza); line-height: 2;">
           <li><a onclick="navigateTo('home')">Home</a></li>
           <li><a onclick="navigateTo('jogos')">Jogos</a></li>
-          <li><a onclick="navigateTo"navigateTo('sobre')">Sobre</a></li>
+          <li><a onclick="navigateTo"('sobre')">Sobre</a></li>
         </ul>
       </div>
 
