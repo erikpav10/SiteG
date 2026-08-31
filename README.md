@@ -1,5 +1,16 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-K5H9RC0MXK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-K5H9RC0MXK');
+  </script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Corujão dos Bruxos | Blog de Jogos</title>
@@ -847,7 +858,7 @@
         <ul style="list-style: none; color: var(--texto-cinza); line-height: 2;">
           <li><a onclick="navigateTo('home')">Home</a></li>
           <li><a onclick="navigateTo('jogos')">Jogos</a></li>
-          <li><a onclick="navigateTo('sobre')">Sobre</a></li>
+          <li><a onclick="onclick="navigateTo('sobre')">Sobre</a></li>
         </ul>
       </div>
 
