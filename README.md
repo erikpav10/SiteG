@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
-  <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-K5H9RC0MXK"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -858,7 +857,7 @@
         <ul style="list-style: none; color: var(--texto-cinza); line-height: 2;">
           <li><a onclick="navigateTo('home')">Home</a></li>
           <li><a onclick="navigateTo('jogos')">Jogos</a></li>
-          <li><a onclick="onclick="navigateTo('sobre')">Sobre</a></li>
+          <li><a onclick="navigateTo"navigateTo('sobre')">Sobre</a></li>
         </ul>
       </div>
 
